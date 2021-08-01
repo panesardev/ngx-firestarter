@@ -1,0 +1,7 @@
+<section>
+	<h1>Todos</h1>
+
+	<div *ngFor="let todo of (todos$ | async)">
+		<h1>{{ todo.text }}</h1>
+	</div>
+</section>

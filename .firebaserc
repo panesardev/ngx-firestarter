@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ngx-firestarter": {
+      "hosting": {
+        "angular-firebase-starter": [
+          "ngx-firestarter"
+        ]
+      }
+    }
+  }
+}
